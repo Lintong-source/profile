@@ -3,8 +3,7 @@
 ||				Github README					||
 ==================================================
 ==================================================
-(直接粘贴下面的内容到README中，项目名称已经包含了。图标可以保留，看你)
-1. LeWagon 项目 
+
 {
 # ExpatUs
 
@@ -61,7 +60,6 @@ This project is currently not licensed for public use. Contact the author for ac
 
 
 
-2. 研究项目1：硕士毕业论文
 {
 # 🎬 Knowledge Graph-Based Movie Recommendation System
 
@@ -111,7 +109,6 @@ This project is currently not licensed for public use. Contact the author for ac
 
 
 
-3. 研究项目2：硕士毕业论文的改进
 {
 # 🔐 Privacy-Preserving Computation for Knowledge-Graph-Based Recommendation Systems
 
@@ -159,7 +156,6 @@ This project is not publicly licensed. Contact the author for academic collabora
 
 
 
-4. 研究项目3：我用QT给武大的项目做原型那个
 {
 # 🧩 Cross-Platform System Prototyping for Distributed Interaction Scenarios
 
@@ -204,7 +200,6 @@ This project is not publicly licensed. Contact the author for academic collabora
 
 
 
-5. 研究项目3：QEMU那个嵌入式的项目
 {
 # 📡 Embedded Communication Protocol Simulation
 
@@ -251,7 +246,6 @@ This project is not publicly licensed. Contact the author for academic collabora
 
 
 
-6. 研究项目4：我的硕士毕业论文
 {
 # 🔒 Verifiable Collaborative Perturbation for Federated Recommendation Systems
 
@@ -297,7 +291,6 @@ This project is not publicly licensed. Contact the author for academic collabora
 
 
 
-7. 企业项目1：泰康资产集中交易室员工培训系统
 {
 # 🏢 Internal Training and Evaluation System for Centralized Trading Department
 
@@ -348,7 +341,6 @@ This project is proprietary and not publicly licensed.
 
 
 
-8. 企业项目2、 泰康资产项目录入系统
 {
 # 📊 Data Visualization and Reporting System for Project Entry
 
@@ -398,7 +390,6 @@ This project is proprietary and not publicly licensed.
 
 
 
-9. 企业项目3、 河南万众二手车交易系统
 {
 # 🚗 Used Car Trading Platform
 
@@ -447,7 +438,6 @@ This project is proprietary and not publicly licensed.
 
 
 
-10. 企业项目4、 万里企业邮箱开发
 {
 # ✉️ Enterprise Email System Development
 
@@ -494,7 +484,6 @@ This project is proprietary and not publicly licensed.
 
 
 
-11. 企业项目5、 河南省供销社车辆及财产统筹系统
 {
 # 🏢 Vehicle and Asset Management System for Henan Supply and Marketing Cooperative
 
@@ -541,7 +530,6 @@ This project is proprietary and not publicly licensed.
 
 
 
-12. 企业项目6、 河南西顺云主机在线交易平台
 {
 # ☁️ Cloud Hosting Transaction Platform
 
@@ -596,7 +584,6 @@ This project is proprietary and not publicly licensed.
 
 
 
-13. 企业项目7、 西顺云主机定时检测模块
 {
 # ⏱️ Scheduled Monitoring Module for Cloud Hosting
 
