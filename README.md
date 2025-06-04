@@ -49,11 +49,7 @@ Developed by Lintong Jin and three other team members at LeWagon Netherlands (20
 
 This project is currently not licensed for public use. Contact the author for academic collaboration.
 
-}
 
-
-
-{
 # 🎬 Knowledge Graph-Based Movie Recommendation System
 
 A research-driven movie recommendation system built as part of a master's thesis. The system integrates a Django-based user interface with a Lambda-architecture recommendation backend powered by Spark, Neo4j, and TensorFlow.
@@ -98,11 +94,7 @@ Supervisor: Prof. Xinzhong Zhu
 
 This project is currently not licensed for public use. Contact the author for academic collaboration.
 
-}
 
-
-
-{
 # 🔐 Privacy-Preserving Computation for Knowledge-Graph-Based Recommendation Systems
 
 A research project focused on enhancing data privacy in knowledge-graph-based recommendation systems using secure multi-party computation techniques.
@@ -145,11 +137,7 @@ This work extends the author's master's thesis on knowledge-graph-based recommen
 
 This project is not publicly licensed. Contact the author for academic collaboration.
 
-}
 
-
-
-{
 # 🧩 Cross-Platform System Prototyping for Distributed Interaction Scenarios
 
 A system prototyping project supporting multi-party communication protocols in distributed computing environments.
@@ -189,11 +177,7 @@ Part of the research project “Communication Protocols for Multi-Party Interact
 
 This project is not publicly licensed. Contact the author for academic collaboration.
 
-}
 
-
-
-{
 # 📡 Embedded Communication Protocol Simulation
 
 A simulation project for evaluating lightweight authentication protocols in heterogeneous embedded environments.
@@ -235,11 +219,7 @@ Part of the research project “Protocol Design for Lightweight Authentication i
 
 This project is not publicly licensed. Contact the author for academic collaboration.
 
-}
 
-
-
-{
 # 🔒 Verifiable Collaborative Perturbation for Federated Recommendation Systems
 
 A research project on verifiable randomness and privacy-preserving mechanisms in federated recommendation systems.
@@ -280,11 +260,7 @@ Part of the research on verifiable privacy mechanisms in federated recommendatio
 ## License
 This project is not publicly licensed. Contact the author for academic collaboration.
 
-}
 
-
-
-{
 # 🏢 Internal Training and Evaluation System for Centralized Trading Department
 
 An enterprise-grade training and performance evaluation system developed for TaiKang Asset Management.
@@ -330,11 +306,7 @@ Developed by Lintong Jin as the sole engineer at TaiKang Asset Management (2017�
 
 This project is proprietary and not publicly licensed.
 
-}
 
-
-
-{
 # 📊 Data Visualization and Reporting System for Project Entry
 
 An internal reporting and visualization system developed for TaiKang Asset Management.
@@ -379,11 +351,7 @@ Responsible for all Tableau development and backend data processing.
 
 This project is proprietary and not publicly licensed.
 
-}
 
-
-
-{
 # 🚗 Used Car Trading Platform
 
 A web-based used car trading system developed for Henan Wanli Group.
@@ -427,11 +395,7 @@ Responsible for both backend module development and front-end implementation.
 
 This project is proprietary and not publicly licensed.
 
-}
 
-
-
-{
 # ✉️ Enterprise Email System Development
 
 An internal enterprise email system developed for Henan Wanli Group.
@@ -473,11 +437,7 @@ Responsible for both frontend and backend module implementation.
 
 This project is proprietary and not publicly licensed.
 
-}
 
-
-
-{
 # 🏢 Vehicle and Asset Management System for Henan Supply and Marketing Cooperative
 
 A web-based management system developed as an outsourced project for Henan Supply and Marketing Cooperative.
@@ -519,11 +479,7 @@ Responsible for module development and system migration.
 
 This project is proprietary and not publicly licensed.
 
-}
 
-
-
-{
 # ☁️ Cloud Hosting Transaction Platform
 
 An online cloud hosting platform developed for XiShun Cloud, supporting virtual machine provisioning, management, and transaction workflows.
@@ -573,11 +529,7 @@ Responsible for transaction system and VM control console development.
 
 This project is proprietary and not publicly licensed.
 
-}
 
-
-
-{
 # ⏱️ Scheduled Monitoring Module for Cloud Hosting
 
 A background service module for automated monitoring and lifecycle management of cloud virtual machines.
@@ -622,4 +574,4 @@ This was the developer’s first production-grade software project.
 
 This project is proprietary and not publicly licensed.
 
-}
+
