@@ -1,10 +1,3 @@
-==================================================
-==================================================
-||				Github README					||
-==================================================
-==================================================
-
-{
 # ExpatUs
 
 A full-stack web application for real-time communication and location-based service transactions.
